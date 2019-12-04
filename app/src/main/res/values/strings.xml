@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">difundapp</string>
+    <string name="sign_in_with_google">Iniciar Sesion Con Google</string>
+    <string name="sign_in_failed">Sesion fallida</string>
+    <string name="logout">Salir</string>
+    <string name="login">Iniciar Sesion</string>
+    <string name="publicaciones">Publicaciones</string>
+    <string name="nueva_publicacion">Nueva Publicacion</string>
+    <string name="publicacion">Publicar</string>
+    <string name="type_here">Escribe Aqui</string>
+    <string name="mensaje_publicacion_vacia">La publicacion no puede estar vacia, agrega Contenido!!</string>
+    <string name="publicacion_exitosa">Publicado Con Exito!</string>
+    <string name="post_details">Post Details</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="comments">Comments</string>
+    <string name="add_comment">Add Comment</string>
+    <string name="comment">Comment…</string>
+    <string name="post_add_error">Post could not be added</string>
+    <string name="post_updated_successfully">Post updated</string>
+    <string name="post_update_failed">Post update failed</string>
+    <string name="post_successfully_deleted">Post deleted</string>
+    <string name="post_delete_failed">Post could not be deleted</string>
+    <string name="comment_add_failed">Comment could not be added</string>
 </resources>
